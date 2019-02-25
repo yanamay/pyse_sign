@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2f6f3d7-da9f-47b8-a6c8-cf1d502ff6e4" name="Default" comment="" />
+    <list default="true" id="a2f6f3d7-da9f-47b8-a6c8-cf1d502ff6e4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sign/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign/views_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sign/views_api.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,46 +44,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sign/tests.py">
+      <file leaf-file-name="views_api.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sign/views_api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="117" column="63" lean-forward="true" selection-start-line="117" selection-start-column="63" selection-end-line="117" selection-end-column="63" />
+            <state relative-caret-position="278">
+              <caret line="222" column="67" lean-forward="true" selection-start-line="222" selection-start-column="67" selection-end-line="222" selection-end-column="67" />
               <folding>
-                <element signature="e#0#32#0" expanded="true" />
-                <element signature="e#187#386#0" />
-                <element signature="e#263#404#0" />
-                <element signature="e#497#1069#0" />
-                <element signature="e#503#584#0" />
-                <element signature="e#680#928#0" />
-                <element signature="e#1036#1284#0" />
-                <element signature="e#629#851#0" />
-                <element signature="e#1525#2590#0" />
-                <element signature="e#1561#2011#0" />
-                <element signature="e#2083#2300#0" />
-                <element signature="e#2355#2590#0" />
-                <element signature="e#2628#3844#0" />
-                <element signature="e#2663#3134#0" />
-                <element signature="e#3323#3546#0" />
-                <element signature="e#3604#3845#0" />
-                <element signature="e#3887#6030#0" />
-                <element signature="e#3924#4535#0" />
-                <element signature="e#4991#5162#0" />
-                <element signature="e#4864#5105#0" />
-                <element signature="e#5558#5788#0" />
-                <element signature="e#5820#6030#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyse_sign/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-              <folding>
-                <element signature="e#633#665#0" expanded="true" />
+                <element signature="e#0#36#0" expanded="true" />
+                <element signature="e#228#1801#0" />
+                <element signature="e#265#1834#0" />
+                <element signature="e#1770#3521#0" />
+                <element signature="e#3593#5409#0" />
+                <element signature="e#5493#7451#0" />
               </folding>
             </state>
           </provider>
@@ -87,24 +64,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sign/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-              <folding>
-                <element signature="e#1#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views_api.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Sign/views_api.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-                <element signature="e#228#1801#0" />
-              </folding>
+            <state relative-caret-position="175">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -112,8 +73,8 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sign/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="60" />
+            <state relative-caret-position="200">
+              <caret line="20" column="57" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="20" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -139,7 +100,7 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sign/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-65">
+            <state relative-caret-position="85">
               <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               <folding>
                 <element signature="e#0#53#0" expanded="true" />
@@ -172,6 +133,9 @@
     <findStrings>
       <find>{% csrf_token %}</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -207,12 +171,13 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="396" />
+    <option name="y" value="31" />
     <option name="width" value="922" />
     <option name="height" value="763" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -456,16 +421,16 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41836736" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3218391" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7872807" visible="true" weight="0.13610315" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7890772" visible="true" weight="0.11031519" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
       <window_info id="Structure" order="1" sideWeight="0.5017857" side_tool="true" weight="0.13610315" />
-      <window_info id="Favorites" sideWeight="0.21271929" side_tool="true" visible="true" weight="0.13610315" />
+      <window_info id="Favorites" sideWeight="0.2109228" side_tool="true" visible="true" weight="0.11031519" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39923468" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -568,20 +533,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyse_sign/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sign/templates/sign_index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="31" column="82" selection-start-line="31" selection-start-column="82" selection-end-line="31" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sign/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
@@ -596,10 +547,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Sign/templates/event_manage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="61" column="23" lean-forward="true" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyse_sign/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sign/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="20" column="57" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="20" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sign/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+            <element signature="e#97#138#0" />
+            <element signature="e#200#989#0" />
+            <element signature="e#235#939#0" />
+            <element signature="e#1313#1573#0" />
+            <element signature="e#976#1125#0" />
+            <element signature="e#2320#2556#0" />
+            <element signature="e#3194#3831#0" />
+            <element signature="e#3931#4309#0" />
+            <element signature="e#1386#1480#0" />
+            <element signature="e#6312#6411#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sign/templates/sign_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="31" column="82" selection-start-line="31" selection-start-column="82" selection-end-line="31" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyse_sign/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="e#633#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Sign/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="117" column="63" lean-forward="true" selection-start-line="117" selection-start-column="63" selection-end-line="117" selection-end-column="63" />
+        <state relative-caret-position="200">
+          <caret line="55" column="50" lean-forward="true" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
             <element signature="e#187#386#0" />
@@ -627,67 +636,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sign/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyse_sign/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-          <folding>
-            <element signature="e#633#665#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sign/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#1#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sign/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-65">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-            <element signature="e#97#138#0" />
-            <element signature="e#200#989#0" />
-            <element signature="e#235#939#0" />
-            <element signature="e#1313#1573#0" />
-            <element signature="e#976#1125#0" />
-            <element signature="e#2320#2556#0" />
-            <element signature="e#3194#3831#0" />
-            <element signature="e#3931#4309#0" />
-            <element signature="e#1386#1480#0" />
-            <element signature="e#6312#6411#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sign/templates/event_manage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="61" column="23" lean-forward="true" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+        <state relative-caret-position="175">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sign/views_api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        <state relative-caret-position="278">
+          <caret line="222" column="67" lean-forward="true" selection-start-line="222" selection-start-column="67" selection-end-line="222" selection-end-column="67" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
             <element signature="e#228#1801#0" />
+            <element signature="e#265#1834#0" />
+            <element signature="e#1770#3521#0" />
+            <element signature="e#3593#5409#0" />
+            <element signature="e#5493#7451#0" />
           </folding>
         </state>
       </provider>
