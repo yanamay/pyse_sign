@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+    {% load bootstrap4 %}
+    {% bootstrap_css %}
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>发布会登录</title>
+</head>
+<body class="text-center">
+<div class="container" style="width: 350px;padding-top: 70px;" >
+    <form class="form-signin" action="/login_action/" method="post">
+        <h1 class="h3 mb-3 font-weight-normal">发布会登录</h1>
+        <input type="text" id="inputUserName" name="username" class="form-control" placeholder="请输入用户名" >
+        <input type="password" id="inputPassword" name="password" class="form-control" placeholder="请输入密码" >
+        <font color="red">{{ error }}</font><br>
+        <button class="btn btn-lg btn-primary btn-block" type="submit">登录</button>
+        <p class="mt-5 mb-3 text-muted">&copy; 2019-2020</p>
+    </form>
+</div>
+</body>
+</html>
